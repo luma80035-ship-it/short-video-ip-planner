@@ -13,7 +13,7 @@
 
 ## 安装
 
-本 Skill 采用通用目录规范。克隆本仓库后，将其中的 `short-video-ip-planner-github` 文件夹（或整个仓库文件夹）放入或链接到：
+本 Skill 采用通用目录规范。克隆本仓库后，将克隆得到的整个仓库文件夹放入或链接到：
 
 ```text
 ~/.agents/skills/short-video-ip-planner
@@ -24,7 +24,7 @@
 如果已安装 dbskill，可使用其安装工具：
 
 ```bash
-skills/dbs-install-skill/scripts/install-skill.sh link "/你的本地路径/short-video-ip-planner-github"
+skills/dbs-install-skill/scripts/install-skill.sh link "/你的本地路径/short-video-ip-planner"
 ```
 
 ## 使用
