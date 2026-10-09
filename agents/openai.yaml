@@ -1,0 +1,4 @@
+interface:
+  display_name: "短视频IP策划官"
+  short_description: "一个入口完成IP定位、百条选题、爆款脚本和日更口播"
+  default_prompt: "使用 $short-video-ip-planner 打开短视频IP策划官入口，显示四种模式供我选择。"
